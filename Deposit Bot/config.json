@@ -1,0 +1,13 @@
+{
+  "game_version": "4.45",
+  "whook": "",
+  "saveWebhook": "",
+  "proxyInfo": {
+    "auth": {
+      "username": "",
+      "password": ""
+    },
+    "ip": "",
+    "port": ""
+  }
+}
