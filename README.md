@@ -11,3 +11,6 @@
 1. Check if the game_version matches with the rgt version in the api and config.json
 2. Check if DepositBot.exe has access to firewall 5411 port.
 # Still Can't Connect? Discord: real_modiz
+====================================
+
+# IF WE GET 5 STARTS ILL UPLOAD WITHDRAW BOT!
