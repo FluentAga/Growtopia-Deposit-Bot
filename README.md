@@ -1,5 +1,5 @@
 # Growtopia Deposit Bot
-====================================
+============================================================================================================
 # Info
 1. Open Config.json and set your discord webhooks for whook and saveWebhook.
 2. Open API INFO.txt and setup your http://127.0.0.1:5411/deposit.php.
@@ -11,6 +11,6 @@
 1. Check if the game_version matches with the rgt version in the api and config.json
 2. Check if DepositBot.exe has access to firewall 5411 port.
 # Still Can't Connect? Discord: real_modiz
-====================================
+============================================================================================================
 
 # IF WE GET 5 STARTS ILL UPLOAD WITHDRAW BOT!
