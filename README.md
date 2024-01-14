@@ -15,4 +15,6 @@
 # Little Explanation How The Deposit Bot Functions:
 - When you set the (BotWorld=) and (RGTGrowID=) the bot will check when the player enters the world if the (RGTGrowID=) if it doesnt match with the one that was given bot will ban them from the world, and if it matches the player will drop wls/dls/bgls and the bot will auto-collect it and when you use http://127.0.0.1:5411/disconnect.php api in any browser it will bring the bot into the save world and store it inside the safe vault (1st safe vault is for bgls/dls/, 2nd safe vault is for wls)
 
-# IF WE GET 5 STARTS ILL UPLOAD WITHDRAW BOT!
+# Selling Deposit Bot Source 
+# Selling Withdraw Bot Source 
+
