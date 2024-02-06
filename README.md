@@ -1,6 +1,6 @@
 # Updated To Latest Version! (4.48)
 # Discord: https://discord.gg/AX4jZp4Std
-=====================================================================
+
 # Info
 1. Open Config.json and set your discord webhooks for whook and saveWebhook.
 2. Open API INFO.txt and setup your http://127.0.0.1:5411/deposit.php.
@@ -11,11 +11,9 @@
 # Can't Connect To Growtopia?
 1. Check if the game_version matches with the rgt version in the api and config.json
 2. Check if DepositBot.exe has access to firewall 5411 port.
-# Still Can't Connect? Discord: real_modiz
-=====================================================================
+# Still Can't Connect? Discord: https://discord.gg/AX4jZp4Std
+
 # Little Explanation How The Deposit Bot Functions:
 - When you set the (BotWorld=) and (RGTGrowID=) the bot will check when the player enters the world if the (RGTGrowID=) if it doesnt match with the one that was given bot will ban them from the world, and if it matches the player will drop wls/dls/bgls and the bot will auto-collect it and when you use http://127.0.0.1:5411/disconnect.php api in any browser it will bring the bot into the save world and store it inside the safe vault (1st safe vault is for bgls/dls/, 2nd safe vault is for wls)
 
-# Selling Deposit Bot Source 
-# Selling Withdraw Bot Source 
 
