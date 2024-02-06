@@ -1,5 +1,4 @@
 # Updated To Latest Version! (4.48)
-# Growtopia Deposit Bot
 # Discord: https://discord.gg/AX4jZp4Std
 =====================================================================
 # Info
