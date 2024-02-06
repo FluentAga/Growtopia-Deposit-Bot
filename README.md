@@ -1,7 +1,7 @@
 # Updated To Latest Version! (4.48)
 # Discord: https://discord.gg/AX4jZp4Std
 
-# Info
+# How To Use:
 1. Open Config.json and set your discord webhooks for whook and saveWebhook.
 2. Open API INFO.txt and setup your http://127.0.0.1:5411/deposit.php.
 3. When you have that done open DepositBot.exe copy your api which is http://127.0.0.1:5411/deposit.php? and paste it in google or any browser you use.
