@@ -1,5 +1,5 @@
 Connect The Bot:
-http://127.0.0.1:5411/deposit.php?RGTGrowID=PLAYERGROWID&BotGrowID=GROWID&BotPassword=GROWPASS&BotWorld=BOTWORLD&GameVersion=4.45&SaveWorld=SAVEWORLD&SaveDoorID=SAVEDOORID&WebUser=Webuser&WebUser=Webuser&apikey=modiz
+http://127.0.0.1:5411/deposit.php?RGTGrowID=PLAYERGROWID&BotGrowID=GROWID&BotPassword=GROWPASS&BotWorld=BOTWORLD&GameVersion=4.48&SaveWorld=SAVEWORLD&SaveDoorID=SAVEDOORID&WebUser=Webuser&WebUser=Webuser&apikey=modiz
 
 Finish Deposit and store inside safe vault:
 http://127.0.0.1:5411/disconnect.php?apikey=modiz&WebUser=Webuser
