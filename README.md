@@ -1,4 +1,4 @@
-# [DEPOSIT BOT] Join Discord For Latest Version!
+# [DEPOSIT BOT] Dm Me On Discord For New Version! (Outdated)
 
 # How To Use:
 1. Open Config.json and set your discord webhooks for whook and saveWebhook.
