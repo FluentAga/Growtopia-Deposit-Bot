@@ -1,4 +1,4 @@
-# [DEPOSIT BOT] Updated To Version 4.53
+# [DEPOSIT BOT] Source For Sale!
 
 # How To Use:
 1. Open Config.json and set your discord webhooks for whook and saveWebhook.
